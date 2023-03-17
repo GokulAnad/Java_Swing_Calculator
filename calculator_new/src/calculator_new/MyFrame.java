@@ -325,6 +325,7 @@ public class MyFrame implements ActionListener {
 				
 				
 			}
+		//	zero button is error stage
 //			if (ClickOparetor) {
 //				DisplayLabel.setText("0");
 //				ClickOparetor = false;
